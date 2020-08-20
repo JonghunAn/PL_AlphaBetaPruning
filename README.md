@@ -1,9 +1,13 @@
 # PL_AlphaBetaPruning
-*3grade_PL_project1
+* 3grade_PL_project1
+
+
+
+
 
 #### 개발환경
 -----------------
-*eclpise(java)
+* eclpise(java)
 
 
 #### description
