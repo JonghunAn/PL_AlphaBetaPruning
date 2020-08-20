@@ -1,5 +1,4 @@
 # PL_AlphaBetaPruning
----------------------
 *3grade_PL_project1
 
 #### 개발환경
